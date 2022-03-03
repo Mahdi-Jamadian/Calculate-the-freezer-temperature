@@ -1,0 +1,3 @@
+G:/project/C/Calculate the freezer temperature/cmake-build-debug/CMakeFiles/Calculate_the_freezer_temperature.dir
+G:/project/C/Calculate the freezer temperature/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/project/C/Calculate the freezer temperature/cmake-build-debug/CMakeFiles/rebuild_cache.dir
